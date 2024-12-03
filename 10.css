@@ -1,0 +1,26 @@
+h2 {
+    color: red;
+}
+
+h1 {
+    color: yellow;
+}
+
+* {
+    background-color: aquamarine;
+}
+
+#menu_text {
+    background-color: #1abc9c;
+    text-align: center;
+    padding: 80xp;
+}
+
+nav {
+    background-color: #333;
+    padding: 14px 20xp;
+}
+
+nav a {
+    color: white;
+}
